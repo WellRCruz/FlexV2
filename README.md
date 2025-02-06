@@ -1,3 +1,4 @@
+![GitHub License](https://img.shields.io/github/license/WellRCruz/FlexV2)
 
 # App FlexV2
 APP PWA para determinar o combustível mais vantajoso em veículos Flex
